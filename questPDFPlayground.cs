@@ -1,10 +1,8 @@
 ﻿using QuestPDF.Infrastructure;
 using QuestPDF.Fluent;
 using QuestPDF.Helpers;
-using QuestPDF.Companion;
 using PdfSharp.Pdf;
 using PdfSharp.Pdf.IO;
-using System;
 
 QuestPDF.Settings.License = LicenseType.Community;
 
